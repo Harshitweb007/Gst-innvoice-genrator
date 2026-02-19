@@ -45,7 +45,7 @@ function Pricing() {
     }
 
     const options = {
-      key: "rzp_test_RmbMCiiHISeIHG",
+      key: "",
       amount: order.amount,
       currency: "INR",
       name: "GST INVOICE GENERATOR",
